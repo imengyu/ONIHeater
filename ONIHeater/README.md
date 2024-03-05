@@ -1,7 +1,7 @@
 ONIHeater
 ---
 
-![logo](https://github.com/imengyu/ONIHeater/blob/master/ONIHeater/logo.png?raw=true)
+![logo](https://github.com/imengyu/ONIHeater/blob/master/logo.png?raw=true)
 
 这是一个用于缺氧游戏的模组。
 

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ventulus\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ONIHeater.STRINGS.BUILDINGS.PREFABS.DIRECTHEATER.NAME
+msgctxt "ONIHeater.STRINGS.BUILDINGS.PREFABS.DIRECTHEATER.NAME"
+msgid "Unlimited Heater"
+msgstr "热得快"
+
+#. ONIHeater.STRINGS.BUILDINGS.PREFABS.DIRECTHEATER.DESC
+msgctxt "ONIHeater.STRINGS.BUILDINGS.PREFABS.DIRECTHEATER.DESC"
+msgid "Unlimited large space/liquid heater. Can be used to heat liquids or gases."
+msgstr "不限制温度大型加热器, 可用于加热液体或者气体。"
+
+#. ONIHeater.STRINGS.BUILDINGS.PREFABS.DIRECTHEATER.EFFECT
+msgctxt "ONIHeater.STRINGS.BUILDINGS.PREFABS.DIRECTHEATER.EFFECT"
+msgid "A space/liquid heater will radiate heat for as long as it's powered."
+msgstr "通电后将持续加热周围环境。"

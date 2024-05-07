@@ -14,7 +14,7 @@ namespace ONIHeater
         "bolier_dry_kanim", 30, 30f, 
         BUILDINGS.CONSTRUCTION_MASS_KG.TIER2, MATERIALS.ALL_METALS, 
         1600f, 
-        BuildLocationRule.OnFloor, 
+        BuildLocationRule.Anywhere, 
         noise: NOISE_POLLUTION.NOISY.TIER2, 
         decor: BUILDINGS.DECOR.BONUS.TIER1
        );
